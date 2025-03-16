@@ -24,6 +24,7 @@ Sistem ini dirancang untuk mempermudah manajemen data gudang dengan fitur penyim
 <div style="border: 2px solid #3498db; padding: 10px; display: inline-block; border-radius: 8px; margin-top: 10px;">
 <img src="https://github.com/user-attachments/assets/c382ee60-a428-4f06-879f-10bef424b20a" alt="awal" width="400">
 </div>
+
 > tampilan Edit
 <div style="border: 2px solid #3498db; padding: 10px; display: inline-block; border-radius: 8px; margin-top: 10px;">
 <img src="https://github.com/user-attachments/assets/e255ee34-c121-4a11-b347-41afa4a7eb59"alt="awal" width="400">
